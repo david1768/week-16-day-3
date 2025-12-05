@@ -129,3 +129,5 @@ print(final_festival_data)
 
 # Extension
 # Write a function festival_search(item) that returns True/False if item appears in festival_data.
+print(festival_search("pizza"))
+print(festival_search("ice cream"))
